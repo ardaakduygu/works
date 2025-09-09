@@ -1,0 +1,1 @@
+Merhabalar hocam, bilgisayarımdaki java sürümü ile alakalı yaşadığımız sorundan dolayı kodumuzu çok kez denedik ve zorluklarla çalıştırabildik. Eğer java sürümünüz JDK 17 ise sorun yaşama ihitmaliniz vardır. Ödevimizi isteğiniz doğrultusunda her türlü sunabiliriz.
